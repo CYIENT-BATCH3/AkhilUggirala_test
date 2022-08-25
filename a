@@ -4,7 +4,7 @@
 int main()
 {
 int a,b; 
-int sum,diff;
+int sum,diff,mul;
 float div;
     scanf("%d %d",&a,&b);
     sum=a+b;
@@ -13,4 +13,6 @@ float div;
     printf("Subtraction: a-b=%d \n",diff);
     div=a/b;
     printf("Division: a/b=%f \n",div);
+    mul=a*b;
+    printf("Multipication: a*b=%d \n",mul);
 }
