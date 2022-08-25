@@ -1,0 +1,16 @@
+// WAP that adds, subtracts and divides two numbers.
+
+#include<stdio.h>
+int main()
+{
+int a,b; 
+int sum,diff;
+float div;
+    scanf("%d %d",&a,&b);
+    sum=a+b;
+    printf("Addition: a+b=%d\n",sum);                
+    diff=a-b;
+    printf("Subtraction: a-b=%d \n",diff);
+    div=a/b;
+    printf("Division: a/b=%f \n",div);
+}
