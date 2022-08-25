@@ -1,0 +1,10 @@
+Simply Git is a version control system that lets you manage and keep track of your source code history.
+GitHubis a cloud-based hosting service that lets you manage Git repositories.
+repository: a file that contaions some data
+push: to share data with organisation or users in the branch
+pull: to get the information from other members of the organisation
+commit: command to capture the state of a project at the point in time
+branch: it represents an independent line of development
+clone: utilising someone's code/data from the team
+review: checks the quality and capability of the code.
+merge: to join two different files.
